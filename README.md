@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iisrax (Israel)
 - 👀 I’m interested in ... AI mostly, I entered in this universe just because of it, so — we'll see
-- 🌱 I’m currently learning ... programmingLogic
+- 🌱 I’m currently learning ... GitHub Certification
 - 💞️ I’m looking to collaborate on ...()
 - 📫 How to reach me ... you can't, yet 😁😬
 - 😄 Pronouns: ... he/him
