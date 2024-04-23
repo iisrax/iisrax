@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iisrax (Israel)
 - 👀 I’m interested in ... AI mostly, I entered in this universe just because of it, so — we'll see
-- 🌱 I’m currently learning ... GitHub Certification
+- 🌱 I’m currently learning ... AI Fundamentals for Devs 🤖
 - 📫 How to reach me ... you can't, yet 😁😬
 
 <a href="#">
