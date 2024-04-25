@@ -8,7 +8,7 @@
 [![Perfil DIO](https://img.shields.io/badge/%20Perfil%20DIO-261447?style=for-the-badge&logo=gitbook&logoColor=FF6C11)](https://www.dio.me/users/isra_draw)
 
 <a href="#">
-  <img height=155 align="center" src="https://my-stats-43gk.vercel.app/api?username=iisrax&show_icons=true&theme=synthwave&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&hide_title=true&card_width=150" />
+  <img height=135 align="center" src="https://my-stats-43gk.vercel.app/api?username=iisrax&show_icons=true&theme=synthwave&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&hide_title=true&card_width=150" />
 </a>
 <a href="#">
   <img height=135 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=iisrax&hide_progress=true&layout=compact&theme=synthwave&card_width=100" />
