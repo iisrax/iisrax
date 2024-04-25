@@ -19,7 +19,7 @@
 
 <div style="display: inline_block" align="center">
   
-### Skills in Development 📓
+### `👾 Skills in Development 📓`
   
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="Vscode" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
