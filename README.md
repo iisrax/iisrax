@@ -5,7 +5,6 @@
 ### 📫 How to reach me :
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-261447?style=for-the-badge&logo=linkedin&logoColor=FF6C11)](https://www.linkedin.com/in/isradraw)
-[![Perfil DIO](https://img.shields.io/badge/%20Perfil%20DIO-261447?style=for-the-badge&logo=gitbook&logoColor=FF6C11)](https://www.dio.me/users/isra_draw)
 
 --------------------
 
