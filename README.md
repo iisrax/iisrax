@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Israel Nunes, a developer in development 😄😬
 - 👀 I’m interested in ... AI mostly, I entered in this universe just because of it, so — we'll see
-- 🌱 I’m currently learning ... CSS Web Developer Training 🖥📑🎨
 
 ### 📫 How to reach me :
 
